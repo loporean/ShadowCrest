@@ -40,6 +40,7 @@ Here are some visuals from **Shadowcrest**:
 Ensure that your system meets the required dependencies (SDL, OpenGL) for running Shadowcrest on Linux. Follow the installation steps below to build and execute the game.
 
 ## Installation
+(Linux only)
 
 1. Clone the repository:
    ```bash
